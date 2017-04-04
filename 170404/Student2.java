@@ -1,6 +1,6 @@
 package a1;
 
-public class Student {
+public class Student2 {
 	private String major;
 	private int StuNum;
 
@@ -21,7 +21,7 @@ public class Student {
 	}
 
 	public static void main(String[] args) {
-		Student a = new Student();
+		Student2 a = new Student2();
 		a.major = "컴퓨터정보 공학과";
 		a.StuNum = 20142754;
 
